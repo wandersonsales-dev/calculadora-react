@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Calculadora do MAC OSX
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi feito baseado na calculadora do MAC OSX!
 
 ## Available Scripts
 
